@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'google.sheets.integration.challange.App'
+    mainClass = 'google.sheets.integration.challange.ApiIntegration'
 }
 
 tasks.named('test') {
